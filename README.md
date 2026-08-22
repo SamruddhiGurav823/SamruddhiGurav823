@@ -62,7 +62,7 @@
 <div align="center">
   <br/>
   <!-- Activity Graph matched to exact LinkedIn Lavender (#7E57C2) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamruddhiGurav823&bg_color=0d1117&color=7E57C2&line=9575CD&point=D1C4E9&area=true&hide_border=true" alt="Activity Graph" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamruddhiGurav823&bg_color=7E57C2&color=0d1117&line=9575CD&point=D1C4E9&area=true&hide_border=true" alt="Activity Graph" width="97%" />
 </div>
 
 <hr/>
