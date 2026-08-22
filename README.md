@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- Header Banner in Lavender -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB,9575CD&height=180&section=header&text=Samruddhi%20Gurav&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%" alt="Header Banner" />
+  <!-- Header Banner matching LinkedIn Lavender (#7E57C2, #5E35B1) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E57C2,5E35B1&height=180&section=header&text=Samruddhi%20Gurav&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%" alt="Header Banner" />
 
-  <!-- Header Subtitle with Lavender Accent -->
+  <!-- Subtitle -->
   <p><strong>Electronics & Telecommunication Engineer | Embedded Systems & AI Enthusiast</strong></p>
 
-  <!-- Typing SVG Effect in Lavender (#B388FF) -->
+  <!-- Typing SVG Effect matching LinkedIn Lavender (#7E57C2) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B388FF&center=true&vCenter=true&width=435&lines=Building+Smart+IoT+%26+Edge+AI+Systems;Exploring+Microcontrollers+%26+Automation;Developing+Computer+Vision+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7E57C2&center=true&vCenter=true&width=435&lines=Building+Smart+IoT+%26+Edge+AI+Systems;Exploring+Microcontrollers+%26+Automation;Developing+Computer+Vision+Solutions" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -61,8 +61,8 @@
 
 <div align="center">
   <br/>
-  <!-- Lavender Themed Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamruddhiGurav823&bg_color=0d1117&color=B39DDB&line=9575CD&point=D1C4E9&area=true&hide_border=true" alt="Activity Graph" width="97%" />
+  <!-- Activity Graph matched to exact LinkedIn Lavender (#7E57C2) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamruddhiGurav823&bg_color=0d1117&color=7E57C2&line=9575CD&point=D1C4E9&area=true&hide_border=true" alt="Activity Graph" width="97%" />
 </div>
 
 <hr/>
