@@ -1,16 +1,17 @@
 <div align="center">
 
-  <!-- Aesthetic Capsule Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=Hi%20there,%20I'm%20Samruddhi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Telecommunication%20Engineer%20%7C%20Embedded%20Systems%20%26%20AI&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <!-- Header Banner / Title -->
+  <h1>Hi there, I'm <span style="color: #38bdf8;">Samruddhi Gurav</span> 👋</h1>
+  <p><strong>Electronics & Telecommunication Engineer | Embedded Systems & AI Enthusiast</strong></p>
 
-  <!-- Smooth Typing SVG -->
+  <!-- Typing SVG Effect with Vibrant Cyan/Blue Accent -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+Smart+IoT+%26+Edge+AI+Systems;Exploring+Microcontrollers+%26+Automation;Developing+Computer+Vision+Solutions;Turning+Ideas+Into+Intelligent+Hardware" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Building+Smart+IoT+%26+Edge+AI+Systems;Exploring+Microcontrollers+%26+Automation;Developing+Computer+Vision+Solutions" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social Badges with Rounded Aesthetic -->
+  <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/samruddhi-gurav-547987346" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -20,63 +21,53 @@
 
 </div>
 
-<br/>
+<hr/>
 
-<!-- Modern Section Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,20,30&height=40&text=🛠️%20Tech%20Stack%20%26%20Skills&fontSize=20&fontColor=ffffff&fontAlign=10" width="100%" />
-
-<br/><br/>
+### 🛠️ Tech Stack & Skills
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  
   <!-- Hardware & Embedded -->
-  <img src="https://img.shields.io/badge/Microprocessor--8085-E7352C?style=for-the-badge&logo=microchip&logoColor=white" alt="Microprocessor 8085" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Microprocessor--8085-E7352C?style=flat-square&logo=microchip&logoColor=white" alt="Microprocessor 8085" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  
   <!-- AI / ML / Data -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<br/>
+<hr/>
 
-<!-- Stats Section Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,20,30&height=40&text=📊%20GitHub%20Activity%20%26%20Metrics&fontSize=20&fontColor=ffffff&fontAlign=10" width="100%" />
-
-<br/><br/>
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamruddhiGurav823&bg_color=0d1117&color=58a6ff&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamruddhiGurav823&theme=tokyonight" alt="GitHub Profile Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamruddhiGurav823&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 
-<br/>
+<div align="center">
+  <br/>
+  <!-- Unified Dark Violet & Cyan Theme Matching the Stats Cards Above -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamruddhiGurav823&bg_color=1a1b27&color=70a5fd&line=38bdf8&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" width="97%" />
+</div>
 
-<!-- Current Focus Section Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,20,30&height=40&text=📌%20Current%20Focus&fontSize=20&fontColor=ffffff&fontAlign=10" width="100%" />
+<hr/>
 
-<br/>
+### 📌 Current Focus
 
 * 🔭 Building smart IoT frameworks and edge AI applications.
 * 🧠 Working with real-time object detection and embedded automation.
 * 💬 Ask me about **Microcontrollers, Python data pipelines, or Edge AI**.
 * 📫 How to reach me: Connect on LinkedIn or drop an email!
-
-<br/>
-
-<!-- Aesthetic Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=120&section=footer" width="100%" />
