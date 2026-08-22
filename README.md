@@ -12,10 +12,10 @@
   <br/><br/>
 
   <!-- Social Badges -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/samruddhi-gurav-547987346" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="guravsamruddhi99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 
@@ -53,13 +53,13 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://stats.creole.gg/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://stats.creole.gg/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://stats.creole.gg/api?username=SamruddhiGurav823&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://stats.creole.gg/api/top-langs/?username=SamruddhiGurva823&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ACTUAL_GITHUB_USERNAME&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamruddhiGurva&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="97%" />
 </div>
 
 <hr/>
