@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner matching LinkedIn Lavender (#7E57C2, #5E35B1) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E57C2,5E35B1&height=180&section=header&text=Samruddhi%20Gurav&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5E35B1,7E57C2&height=180&section=header&text=Samruddhi%20Gurav&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%" alt="Header Banner" />
 
   <!-- Subtitle -->
   <p><strong>Electronics & Telecommunication Engineer | Embedded Systems & AI Enthusiast</strong></p>
@@ -61,8 +61,8 @@
 
 <div align="center">
   <br/>
-  <!-- Activity Graph matched to exact LinkedIn Lavender (#7E57C2) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamruddhiGurav823&bg_color=7E57C2&color=0d1117&line=9575CD&point=D1C4E9&area=true&hide_border=true" alt="Activity Graph" width="97%" />
+  <!-- Activity Graph matched to exact LinkedIn Lavender (#) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamruddhiGurav823&bg_color=0d1117&color=7E57C2&line=9575CD&point=D1C4E9&area=true&hide_border=true" alt="Activity Graph" width="97%" />
 </div>
 
 <hr/>
