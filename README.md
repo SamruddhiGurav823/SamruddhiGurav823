@@ -1,86 +1,75 @@
 <div align="center">
 
-  <!-- Gradient Name Banner (Pink/Purple) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=180&section=header&text=Samruddhi%20Gurav&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%" alt="Header Banner" />
+  <!-- Header Banner in Lavender -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB,9575CD&height=180&section=header&text=Samruddhi%20Gurav&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%" alt="Header Banner" />
 
-  <br/>
+  <!-- Header Subtitle with Lavender Accent -->
+  <p><strong>Electronics & Telecommunication Engineer | Embedded Systems & AI Enthusiast</strong></p>
 
-  <!-- Key Projects Table -->
-  <h3>🌸 Key Projects</h3>
-
-  <table>
-    <thead>
-      <tr>
-        <th align="left">📁 Project</th>
-        <th align="left">🛠 Tech Stack</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>AgriGuard AI</strong></td>
-        <td>
-          <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO"/>
-          <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logoColor=white" alt="IoT"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Smart Agriculture</strong></td>
-        <td>
-          <img src="https://img.shields.io/badge/Sensors-4CAF50?style=flat-square&logoColor=white" alt="Sensors"/>
-          <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Vehicle Tracking</strong></td>
-        <td>
-          <img src="https://img.shields.io/badge/GPS-00897B?style=flat-square&logoColor=white" alt="GPS"/>
-          <img src="https://img.shields.io/badge/GSM-3949AB?style=flat-square&logoColor=white" alt="GSM"/>
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>SMS Spam Classifier</strong></td>
-        <td>
-          <img src="https://img.shields.io/badge/ML-FF9800?style=flat-square&logoColor=white" alt="ML"/>
-          <img src="https://img.shields.io/badge/NLP-26A69A?style=flat-square&logoColor=white" alt="NLP"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Book Recommender</strong></td>
-        <td>
-          <img src="https://img.shields.io/badge/KNN-9C27B0?style=flat-square&logoColor=white" alt="KNN"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <br/>
-
-  <!-- Technical Skills -->
-  <h3>⚡ Technical Skills</h3>
-  <p>
-    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-    <img src="https://img.shields.io/badge/RASPBERRY_PI-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-    <img src="https://img.shields.io/badge/EMBEDDED_C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
-    <img src="https://img.shields.io/badge/MACHINE_LEARNING-FF6F00?style=for-the-badge&logoColor=white" alt="Machine Learning"/>
-  </p>
-
-  <br/>
-
-  <!-- GitHub Overview Stats Card -->
-  <h3>📊 GitHub Overview</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamruddhiGurav823&theme=tokyonight&hide_border=true&start_date=2025-12-01" alt="GitHub Streak" width="60%" />
+  <!-- Typing SVG Effect in Lavender (#B388FF) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B388FF&center=true&vCenter=true&width=435&lines=Building+Smart+IoT+%26+Edge+AI+Systems;Exploring+Microcontrollers+%26+Automation;Developing+Computer+Vision+Solutions" alt="Typing SVG" />
+  </a>
 
   <br/><br/>
 
-  <!-- Connect Section -->
-  <h3>💬 Let's Connect</h3>
+  <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/samruddhi-gurav-547987346" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7E57C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:guravsamruddhi99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 
 </div>
+
+<hr/>
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  
+  <!-- Hardware & Embedded -->
+  <img src="https://img.shields.io/badge/Microprocessor--8085-E7352C?style=flat-square&logo=microchip&logoColor=white" alt="Microprocessor 8085" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  
+  <!-- AI / ML / Data -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<hr/>
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamruddhiGurav823&theme=radical" alt="GitHub Profile Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamruddhiGurav823&theme=radical" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <br/>
+  <!-- Lavender Themed Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamruddhiGurav823&bg_color=0d1117&color=B39DDB&line=9575CD&point=D1C4E9&area=true&hide_border=true" alt="Activity Graph" width="97%" />
+</div>
+
+<hr/>
+
+### 📌 Current Focus
+
+* 🔭 Building smart IoT frameworks and edge AI applications.
+* 🧠 Working with real-time object detection and embedded automation.
+* 💬 Ask me about **Microcontrollers, Python data pipelines, or Edge AI**.
+* 📫 How to reach me: Connect on LinkedIn or drop an email!
