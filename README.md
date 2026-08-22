@@ -1,24 +1,24 @@
 <div align="center">
 
-  <!-- Header Banner with Rich Gradient Background -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e293b,100:0f172a&height=180&text=Hi%20there,%20I'm%20Samruddhi%20Gurav%20👋&fontSize=32&fontColor=38bdf8&animation=fadeIn&fontAlignY=40&desc=Electronics%20%26%20Telecommunication%20Engineer%20%7C%20Embedded%20Systems%20%26%20AI%20Enthusiast&descAlignY=65&descSize=16&descColor=e2e8f0" width="100%" alt="Header Banner" />
+> # <span style="color:#0ea5e9">Hi there, I'm Samruddhi Gurav</span> 👋
+> ### ⚡ `Electronics & Telecommunication Engineer` | `Embedded Systems & AI Enthusiast`
 
-  <br/><br/>
+<br/>
 
-  <!-- Typing SVG Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Building+Smart+IoT+%26+Edge+AI+Systems;Exploring+Microcontrollers+%26+Automation;Developing+Computer+Vision+Solutions" alt="Typing SVG" />
-  </a>
+<!-- Typing SVG Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Building+Smart+IoT+%26+Edge+AI+Systems;Exploring+Microcontrollers+%26+Automation;Developing+Computer+Vision+Solutions" alt="Typing SVG" />
+</a>
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/samruddhi-gurav-547987346" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:guravsamruddhi99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/samruddhi-gurav-547987346" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:guravsamruddhi99@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
 
 </div>
 
